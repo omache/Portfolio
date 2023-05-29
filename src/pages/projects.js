@@ -99,7 +99,7 @@ const projects = () => {
   return (
     <>
     <Head>
-    <title>Kevin Camacho | Projects Page</title>
+    <title>Renox Omache | Projects Page</title>
     <meta name='description' content='Software Engineer' />
 </Head>
     <main className='font-normal w-full mb-16 flex flex-col items-center justify-center dark:text-light'>
