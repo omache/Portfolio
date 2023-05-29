@@ -8,28 +8,10 @@ frontend:
       commands:
         - npm run build
   artifacts:
-    baseDirectory: .next
+    baseDirectory: out
     files:
       - "**/*"
   cache:
     paths:
       - node_modules/**/*
-
-backend:
-  phases:
-    build:
-      commands:
-        - echo "No backend build commands specified"
-  artifacts:
-    baseDirectory: public
-    files:
-      - "**/*"
-
-cache:
-  paths:
-    - node_modules/**/*
-    - .next/cache/**/*
-
-env:
-  variables:
-    NEXT_PUBLIC_API_URL: <your-api-url>
+      - .next/cache/**/*

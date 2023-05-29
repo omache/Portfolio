@@ -3,6 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
 };
 
-module.exports = nextConfig;
+module.exports = {
+  distDir: "out",
+};
 
 // Check for this comment then everything is okay
