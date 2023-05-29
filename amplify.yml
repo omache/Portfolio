@@ -1,0 +1,57 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm ci
+    build:
+      commands:
+        - npm run build
+  artifacts:
+    baseDirectory: .next
+    files:
+      - "**/*"
+  cache:
+    paths:
+      - node_modules/**/*
+
+backend:
+  phases:
+    build:
+      commands:
+        - echo "No backend build commands specified"
+  artifacts:
+    baseDirectory: public
+    files:
+      - "**/*"
+
+cache:
+  paths:
+    - node_modules/**/*
+    - .next/cache/**/*
+
+# Add any environment variables required by your application
+env:
+  variables:
+    NEXT_PUBLIC_API_URL: <your-api-url>
+# Add any required AWS resources, permissions, or configurations
+# You can customize this section based on your needs
+# For example, adding databases, authentication, or storage
+# Visit the AWS Amplify documentation for more information
+
+# Example resources section (uncomment and customize as needed)
+# resources:
+#   - category: "auth"
+#     resourceName: "MyAuthResource"
+#     service: "Cognito"
+#     # Specify additional configuration options for authentication
+
+#   - category: "storage"
+#     resourceName: "MyStorageResource"
+#     service: "S3"
+#     # Specify additional configuration options for storage
+
+#   - category: "api"
+#     resourceName: "MyApiResource"
+#     service: "Lambda"
+#     # Specify additional configuration options for APIs
