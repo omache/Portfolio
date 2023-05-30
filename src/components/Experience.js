@@ -54,18 +54,18 @@ const Experience = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            position="Reasearch Analyst"
-            company="NAYA"
+            position="Software Engineer I"
+            company="Andela"
             companyLink="nakuruyouthalliance.org"
-            time="May 2020 - Current"
-            address="| Nakuru, KE"
-            work="I played a pivotal role in researching and analyzing school children's nutritional needs and meal programs. I provided data-driven insights and recommendations through reports and presentations. Collaborating with program managers, I evaluated program effectiveness and designed surveys. My contributions enhanced our meal programs' success."
+            time="Sep 2022 - Current"
+            address="| Nairobi, KE - Remote"
+            work=" I developed and enhanced software applications, collaborating with cross-functional teams. I contributed to the entire development lifecycle, from coding and testing to deployment. I optimized code, resolved issues, and delivered reliable solutions within deadlines. My expertise, problem-solving skills, and continuous learning allowed me to excel in delivering exceptional results."
           />
           <Details
-            position="ML Intern"
+            position="ML Engineer"
             company="Panda Studio"
-            time="July 2020 - May 2021 | Remote"
-            work="As an ML Intern at Panda Studio, I played a crucial role as a founder, utilizing data-driven decision-making to enhance employee satisfaction and reduce turnover. I collaborated with the development team to design reusable machine learning software components, improving efficiency and reducing defects. By prioritizing customer and partner needs, I created data science dashboards that improved decision-making. Additionally, I ensured reliability and security through active monitoring and resolved software issues with root cause analysis and corrective solutions."
+            time="July 2020 - May 2021 | Nairobi"
+            work="As an ML Intern, I utilized data-driven decision-making to enhance employee satisfaction and reduce turnover. I collaborated on designing reusable ML software components, improving efficiency and minimizing defects. By prioritizing customer needs, I developed data science dashboards for better decision-making. I ensured software reliability, security, and resolved issues through root cause analysis. My contributions optimized performance and effectiveness in machine learning."
           />
           <Details
             position="Intern"
