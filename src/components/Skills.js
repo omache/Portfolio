@@ -40,28 +40,39 @@ const Skills = () => {
     "
           whileHover={{ scale: 1.05 }}
         >
-          Technologies
+          Machine Learning
         </motion.div>
 
-        <Skill name="HTML" x="-20vw" y="0vw" />
-        <Skill name="CSS" x="-10vw" y="0vw" />
-        <Skill name="JavaScript" x="0vw" y="0vw" />
-        <Skill name="React" x="10vw" y="0vw" />
-        <Skill name="Docker" x="-20vw" y="10vw" />
-        <Skill name="Kubernetes" x="-10vw" y="10vw" />
-        <Skill name="Machine Learning" x="0vw" y="10vw" />
-        <Skill name="TensorFlow" x="10vw" y="10vw" />
-        <Skill name="PyTorch" x="-10vw" y="20vw" />
-        <Skill name="PowerBi" x="0vw" y="20vw" />
-        <Skill name="Tableau" x="10vw" y="20vw" />
-        <Skill name="ASP.NET" x="20vw" y="0vw" />
-        <Skill name="AWS" x="20vw" y="10vw" />
-        <Skill name="Azure" x="20vw" y="20vw" />
-        <Skill name="Transformers" x="-5vw" y="30vw" />
-        <Skill name="NLP" x="5vw" y="30vw" />
+        <Skill name="HTML" x="12.5vw" y="-13.5vw" />
+        <Skill name="CSS" x="24vw" y="-11.5vw" />
+
+        <Skill name="JavaScript" x="0vw" y="-18vw" />
+        <Skill name="React" x="-12.5vw" y="-13.5vw" />
+        <Skill name="Docker" x="-17vw" y="18vw" />
+        <Skill name="Kubernetes" x="17vw" y="18vw" />
+
+        <Skill name="CNN" x="12vw" y="0vw" />
+
+        <Skill name="TensorFlow" x="20vw" y="0vw" />
+        <Skill name="PyTorch" x="30vw" y="0vw" />
+
+        <Skill name="NLP" x="-22vw" y="0vw" />
+        <Skill name="Computer Vision" x="-33vw" y="0vw" />
+        <Skill name="Data Analysis" x="0vw" y="11.5vw" />
+
+        <Skill name="PowerBi" x="13vw" y="9vw" />
+        <Skill name="Tableau" x="25vw" y="7.5vw" />
+        <Skill name="Statistics" x="-13vw" y="9vw" />
+
+        <Skill name="SQL" x="-25vw" y="7.5vw" />
+
+        <Skill name="ASP.NET" x="-24vw" y="-11.5vw" />
+        <Skill name="AWS" x="6.5vw" y="20vw" />
+        <Skill name="Azure" x="-6.5vw" y="20vw" />
+        <Skill name="Transformers" x="-13vw" y="0vw" />
       </div>
     </>
   );
 };
-//Working
+
 export default Skills;
