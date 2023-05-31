@@ -178,7 +178,7 @@ security, optimize access management, and enhance user experience, positioning t
             <div className="col-span-6 sm:col-span-12">
               <Project
                 title="Non-Profit Organization Website - NAYA"
-                img={project2}
+                img={project4}
                 summary="NAYA is a full-stack application website developed using ASP.NET Core and C#. It is designed specifically for a non-profit organization. The website includes features such as payment and subscription plans, allowing users to make donations and contribute to the organization's cause. Additionally, it provides information about the organization's mission, projects, and events. The website offers a user-friendly interface, responsive design, and secure payment processing to ensure a seamless experience for visitors. By leveraging the power of technology, NAYA aims to enhance the organization's online presence, engage with supporters, and drive impactful change in the community."
                 link="https://github.com/omache/NAYA"
                 github="https://github.com/omache/NAYA"
@@ -205,7 +205,7 @@ organizations to harness the full potential of AI-driven geographical data manag
             <div className="col-span-12">
               <FeaturedProject
                 title="Emotion Detecting AI - FaceFlow"
-                img={project4}
+                img={project2}
                 summary="The FaceFlow project is an innovative AI-driven initiative that specializes in facial recognition and muscle-based analysis, utilizing state-of-the-art 
 deep learning algorithms and advanced computer vision methodologies. By employing a combination of Convolutional Neural Networks (CNNs) and cutting-edge 
 electromyography (EMG) signal processing techniques, FaceFlow's robust system accurately discerns individuals based on their unique facial features and muscle 
