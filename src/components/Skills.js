@@ -43,33 +43,20 @@ const Skills = () => {
           Technologies
         </motion.div>
 
-     
-  <div class="skill" style="left: -15vw; top: 8vw;">Machine Learning</div>
-
- 
-  <div class="skill" style="left: 15vw; top: -8vw;">TensorFlow</div>
-  <div class="skill" style="left: -15vw; top: -8vw;">Pytorch</div>
-
-   
-  <div class="skill" style="left: -10vw; top: 0vw;">HTML</div>
-  <div class="skill" style="left: 10vw; top: 0vw;">CSS</div>
-  <div class="skill" style="left: 0vw; top: 6vw;">JavaScript</div>
-  <div class="skill" style="left: 0vw; top: -6vw;">React</div>
-  <div class="skill" style="left: 15vw; top: 8vw;">ASP.NET</div>
-
-  
-  <div class="skill" style="left: 26vw; top: 0vw;">AWS</div>
-  <div class="skill" style="left: -26vw; top: 0vw;">Azure</div>
-  <div class="skill" style="left: 26vw; top: 8vw;">Docker</div>
-  <div class="skill" style="left: -26vw; top: -8vw;">Kubernetes</div>
-
- 
-  <div class="skill" style="left: 0vw; top: -15vw;">PowerBi</div>
-  <div class="skill" style="left: 0vw; top: 15vw;">Tableau</div>
-
-   
-  <div class="skill" style="left: 5vw; top: 11vw;">Transformers</div>
-  <div class="skill" style="left: 5vw; top: 11vw;">NLP</div>
+        <Skill name="HTML" x="-10vw" y="0vw" />
+        <Skill name="CSS" x="10vw" y="0vw" />
+        <Skill name="JavaScript" x="0vw" y="6vw" />
+        <Skill name="React" x="0vw" y="-6vw" />
+        <Skill name="Machine Learning" x="-15vw" y="8vw" />
+        <Skill name="TensorFlow" x="15vw" y="-8vw" />
+        <Skill name="Pytorch" x="-15vw" y="-8vw" />
+        <Skill name="ASP.NET" x="15vw" y="8vw" />
+        <Skill name="AWS" x="26vw" y="0vw" />
+        <Skill name="Azure" x="-26vw" y="0vw" />
+        <Skill name="PowerBi" x="0vw" y="-15vw" />
+        <Skill name="Tableau" x="0vw" y="15vw" />
+        <Skill name="Transformers" x="5vw" y="11vw" />
+        <Skill name="NLP" x="5vw" y="11vw" />
       </div>
     </>
   );
