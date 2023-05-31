@@ -170,24 +170,18 @@ vision techniques, including Convolutional Neural Networks (CNNs) and feature ex
 it offers low-latency processing, adaptability, and resistance against adversarial attacks. Its modular and extensible nature allows customization to 
 meet unique enterprise needs, while liveness detection mechanisms counteract spoofing attempts. By implementing Uniface, organizations can strengthen 
 security, optimize access management, and enhance user experience, positioning themselves as leaders in the digital transformation era."
-                link="https://github.com/Kevincxv/UniFace-AI-Authenticator/tree/main/UniFace"
-                github="https://github.com/Kevincxv/UniFace-AI-Authenticator/tree/main/UniFace"
+                link="https://github.com/omache/UniFace-AI-Authenticator/tree/main/UniFace"
+                github="https://github.com/omache/UniFace-AI-Authenticator/tree/main/UniFace"
                 type="Featured Project"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="AI Text to Image - Imagin AI"
+                title="Non-Profit Organization Website - NAYA"
                 img={project2}
-                summary="The ImaginAI project is an avant-garde AI-driven endeavor that specializes in the generation of high-fidelity images based on textual prompts, 
-employing cutting-edge deep learning techniques and advanced generative adversarial networks (GANs). Utilizing a combination of transformer architectures 
-and conditioning mechanisms, ImaginAI's neural network efficiently translates complex semantic information from text prompts into intricate visual representations, 
-while maintaining coherence and context fidelity. The system incorporates state-of-the-art optimization algorithms, ensuring the generated images exhibit 
-photorealistic attributes and fine-grained details. Furthermore, ImaginAI's robust design enables the handling of diverse content domains, offering extensive 
-applicability across various industries. This groundbreaking technology paves the way for novel applications in visual storytelling, creative design, advertising,
-and content generation, empowering businesses to harness the full potential of AI-driven visual synthesis."
-                link="https://github.com/Kevincxv/AI-Image-Generator"
-                github="https://github.com/Kevincxv/AI-Image-Generator"
+                summary="NAYA is a full-stack application website developed using ASP.NET Core and C#. It is designed specifically for a non-profit organization. The website includes features such as payment and subscription plans, allowing users to make donations and contribute to the organization's cause. Additionally, it provides information about the organization's mission, projects, and events. The website offers a user-friendly interface, responsive design, and secure payment processing to ensure a seamless experience for visitors. By leveraging the power of technology, NAYA aims to enhance the organization's online presence, engage with supporters, and drive impactful change in the community."
+                link="https://github.com/omache/NAYA"
+                github="https://github.com/omache/NAYA"
                 type="Project"
               />
             </div>
@@ -203,8 +197,8 @@ efficiency, allowing for real-time responsiveness and adaptability to evolving d
 seamless integration across various industries and applications, such as geopolitical analysis, international trade, logistics, and travel planning, enabling 
 organizations to harness the full potential of AI-driven geographical data management and optimization.
 "
-                link="https://github.com/Kevincxv/Country-Sorter"
-                github="https://github.com/Kevincxv/Country-Sorter"
+                link="https://github.com/omache/Country-Sorter"
+                github="https://github.com/omache/Country-Sorter"
                 type="Project"
               />
             </div>
@@ -217,8 +211,8 @@ deep learning algorithms and advanced computer vision methodologies. By employin
 electromyography (EMG) signal processing techniques, FaceFlow's robust system accurately discerns individuals based on their unique facial features and muscle 
 patterns. The integration of multi-modal data fusion and real-time sensor fusion technologies further enhances the solution's precision, allowing for 
 seamless detection even under diverse environmental conditions and varying facial expressions."
-                link="https://github.com/Kevincxv/AI-Emotions-Classifier"
-                github="https://github.com/Kevincxv/AI-Emotions-Classifier"
+                link="https://github.com/omache/AI-Emotions-Classifier"
+                github="https://github.com/omache/AI-Emotions-Classifier"
                 type="Featured Project"
               />
             </div>

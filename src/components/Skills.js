@@ -56,7 +56,7 @@ const Skills = () => {
         <Skill name="PowerBi" x="0vw" y="-15vw" />
         <Skill name="Tableau" x="0vw" y="15vw" />
         <Skill name="Transformers" x="5vw" y="11vw" />
-        <Skill name="NLP" x="5vw" y="11vw" />
+        <Skill name="NLP" x="-2vw" y="13vw" />
       </div>
     </>
   );
