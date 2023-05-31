@@ -8,7 +8,7 @@ import React from "react";
 import project1 from "../../public/images/projects/My project (1).png";
 import project2 from "../../public/images/projects/My project (2).png";
 import project3 from "../../public/images/projects/My project (3).png";
-import project4 from "../../public/images/projects/My project (8).png";
+import project4 from "../../public/images/projects/My project (6).png";
 import { motion } from "framer-motion";
 
 const FramerImage = motion(Image);
