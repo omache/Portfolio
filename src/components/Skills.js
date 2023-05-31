@@ -47,14 +47,16 @@ const Skills = () => {
         <Skill name="CSS" x="10vw" y="0vw" />
         <Skill name="JavaScript" x="0vw" y="6vw" />
         <Skill name="React" x="0vw" y="-6vw" />
-        <Skill name="Machine Learning" x="-15vw" y="8vw" />
-        <Skill name="TensorFlow" x="15vw" y="-8vw" />
-        <Skill name="Pytorch" x="-15vw" y="-8vw" />
-        <Skill name="ASP.NET" x="15vw" y="8vw" />
-        <Skill name="AWS" x="26vw" y="0vw" />
-        <Skill name="Azure" x="-26vw" y="0vw" />
+        <Skill name="Docker" x="-15vw" y="8vw" />
+        <Skill name="Kubernetes" x="15vw" y="-8vw" />
+        <Skill name="Machine Learning" x="-15vw" y="-8vw" />
+        <Skill name="TensorFlow" x="15vw" y="8vw" />
+        <Skill name="PyTorch" x="-15vw" y="-8vw" />
         <Skill name="PowerBi" x="0vw" y="-15vw" />
         <Skill name="Tableau" x="0vw" y="15vw" />
+        <Skill name="ASP.NET" x="26vw" y="0vw" />
+        <Skill name="AWS" x="26vw" y="0vw" />
+        <Skill name="Azure" x="-26vw" y="0vw" />
         <Skill name="Transformers" x="5vw" y="11vw" />
         <Skill name="NLP" x="-2vw" y="13vw" />
       </div>

@@ -54,15 +54,15 @@ const Experience = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            position="Software Engineer I"
-            company="Andela"
+            position="Research Analyst"
+            company="NAYA"
             companyLink="nakuruyouthalliance.org"
-            time="Sep 2022 - Current"
-            address="| Nairobi, KE - Remote"
+            time="May 2020 - Current"
+            address="| Nairobi, KE"
             work=" I developed and enhanced software applications, collaborating with cross-functional teams. I contributed to the entire development lifecycle, from coding and testing to deployment. I optimized code, resolved issues, and delivered reliable solutions within deadlines. My expertise, problem-solving skills, and continuous learning allowed me to excel in delivering exceptional results."
           />
           <Details
-            position="ML Engineer"
+            position="ML Engineer Intern"
             company="Panda Studio"
             time="July 2020 - May 2021 | Nairobi"
             work="As an ML Intern, I utilized data-driven decision-making to enhance employee satisfaction and reduce turnover. I collaborated on designing reusable ML software components, improving efficiency and minimizing defects. By prioritizing customer needs, I developed data science dashboards for better decision-making. I ensured software reliability, security, and resolved issues through root cause analysis. My contributions optimized performance and effectiveness in machine learning."
@@ -70,7 +70,7 @@ const Experience = () => {
           <Details
             position="Intern"
             company="PwC"
-            time="Feb 2017 – October 2017 | Miami, FL"
+            time="Feb 2017 – October 2017 | Nairobi"
             work="I collaborated with the Virtual Team Management team, learning and implementing effective time management and organizational skills. With a strong attention to detail, I worked efficiently and independently on assigned tasks. Through this experience in the professional services industry, I gained valuable knowledge about effective project coordination and team management. Additionally, I developed data analysis skills, albeit at a junior level, which further enriched my skillset."
           />
         </ul>

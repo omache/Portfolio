@@ -124,21 +124,20 @@ const articles = () => {
           />
           <ul className="grid grid-cols-2 gap-16 lg:gap-8 md:grid-cols-1 md:gap-y-16">
             <FeaturedArticle
-              title="Unraveling the Black Box: Demystifying Machine Learning for the Everyday User
+              title="Building Regression Models from Scratch: Unveiling the Inner Mechanics of Predictive Power
 "
-              summary="Machine Learning for Everyone 
-offers an accessible overview of the fundamental concepts, applications, and practical uses of machine learning for everyday users. The blog post delves into supervised, unsupervised, and reinforcement learning while highlighting the technology's impact across healthcare, finance, marketing, transportation, and entertainment. By understanding the core principles of machine learning and its potential applications, users can harness its power to tackle common problems, such as email filtering, product recommendations, language translation, and home automation. As the technology continues to advance, machine learning is poised to play an increasingly significant role in our daily lives."
+              summary="Discover the intricacies of building regression models from scratch in my portfolio article. From linear regression to polynomial regression, I provide a step-by-step guide using Python to implement these models. Join me on this enriching journey to gain valuable insights into the process of creating custom regression models."
               time="9 min read"
               link="https://omacherenox.medium.com/implementing-multiple-linear-regression-from-scratch-with-python-ad9c161b2bb5"
               img={article1}
             />
 
             <FeaturedArticle
-              title="Implementing Regression Models from Scratch"
-              summary="Multiple linear regression model is a linear model that estimates the relationship between a quantitative dependent variable and two or more independent variables using a straight line.
+              title="How Azure and Cloud Computing Services are Essential in Machine Learning and Data Analytics"
+              summary="Discover the transformative role of Azure and cloud computing services in machine learning and data analytics. In my portfolio article, we explore how organizations leverage Azure's scalable infrastructure and advanced tools to unlock valuable insights from vast amounts of data. Join me on this insightful journey as we uncover the power of cloud-based solutions in revolutionizing these critical fields.
 "
               time="11 min read"
-              link="https://KennethCamachoblog.blogspot.com/2023/04/the-power-of-deep-learning.html"
+              link="https://omacherenox.medium.com/how-azure-and-cloud-computing-services-are-essential-in-machine-learning-and-data-analytics-cec023cb8353"
               img={article2}
             />
           </ul>

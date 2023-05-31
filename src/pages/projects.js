@@ -8,7 +8,7 @@ import React from "react";
 import project1 from "../../public/images/projects/My project (1).png";
 import project2 from "../../public/images/projects/My project (2).png";
 import project3 from "../../public/images/projects/My project (3).png";
-import project4 from "../../public/images/projects/My project (6).png";
+import project4 from "../../public/images/projects/My project (8).png";
 import { motion } from "framer-motion";
 
 const FramerImage = motion(Image);
@@ -170,8 +170,8 @@ vision techniques, including Convolutional Neural Networks (CNNs) and feature ex
 it offers low-latency processing, adaptability, and resistance against adversarial attacks. Its modular and extensible nature allows customization to 
 meet unique enterprise needs, while liveness detection mechanisms counteract spoofing attempts. By implementing Uniface, organizations can strengthen 
 security, optimize access management, and enhance user experience, positioning themselves as leaders in the digital transformation era."
-                link="https://github.com/omache/UniFace-AI-Authenticator/tree/main/UniFace"
-                github="https://github.com/omache/UniFace-AI-Authenticator/tree/main/UniFace"
+                link="https://github.com/omache/Uniface-AI-Authentication"
+                github="https://github.com/omache/Uniface-AI-Authentication"
                 type="Featured Project"
               />
             </div>
