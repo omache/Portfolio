@@ -40,7 +40,7 @@ const Skills = () => {
     "
           whileHover={{ scale: 1.05 }}
         >
-          Languages
+          Technologies
         </motion.div>
 
         <Skill name="HTML" x="-10vw" y="0vw" />
@@ -56,6 +56,7 @@ const Skills = () => {
         <Skill name="PowerBi" x="0vw" y="-15vw" />
         <Skill name="Tableau" x="0vw" y="15vw" />
         <Skill name="Transformers" x="5vw" y="11vw" />
+        <Skill name="NLP" x="5vw" y="11vw" />
       </div>
     </>
   );
