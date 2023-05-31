@@ -120,7 +120,7 @@ const articles = () => {
         <Layout className="pt-16">
           <AnimatedText
             text="The power of words "
-            className="mb-16 !text-5xl !text-center lg:!text-5xl sm:mb-8 sm:!text-4xl xs:!text-3xl"
+            className="mb-16 !text-5xl tracking-tight !text-center lg:!text-5xl sm:mb-8 sm:!text-4xl xs:!text-3xl"
           />
           <ul className="grid grid-cols-2 gap-16 lg:gap-8 md:grid-cols-1 md:gap-y-16">
             <FeaturedArticle
