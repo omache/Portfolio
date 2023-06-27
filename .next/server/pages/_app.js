@@ -270,7 +270,7 @@ const NavBar = ()=>{
                         className: "flex items-center justify-center flex-wrap",
                         children: [
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(framer_motion__WEBPACK_IMPORTED_MODULE_6__.motion.a, {
-                                href: "https://github.com/kevincxv",
+                                href: "https://github.com/omache",
                                 target: "_blank",
                                 whileHover: {
                                     y: -2

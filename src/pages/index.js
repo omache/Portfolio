@@ -31,9 +31,10 @@ export default function Home() {
               <AnimatedText
                 text="Transforming Ideas into Digital Reality"
                 className="!text-5xl !text-left
-              xl:!text-5xl lg:!text-center   lg:!text=6xl md:!text-5xl sm:!text-3xl
-              "
+    xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl
+    font-sans"
               />
+
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
                 Step into the realm of my portfolio, where the magic of
                 creativity intertwines with the wizardry of cutting-edge
