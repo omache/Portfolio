@@ -148,37 +148,37 @@ const articles = () => {
             <Article
               title="Unraveling the Black Box: Demystifying Machine Learning for the Everyday User"
               date="April 22, 2023"
-              link="https://KennethCamachoblog.blogspot.com/2023/04/unraveling-black-box-demystifying.html"
+              link="#"
               img={article1}
             />
             <Article
               title="The Power of Deep Learning"
               date="March 7, 2023"
-              link="https://KennethCamachoblog.blogspot.com/2023/04/the-power-of-deep-learning.html"
+              link="https://github.com/omache/Diabetes-Prediction-ML-Pipeline"
               img={article2}
             />
             <Article
               title="Leveraging Machine Learning to Combat the Cybersecurity Crisis"
               date="February 13, 2023"
-              link="https://KennethCamachoblog.blogspot.com/2023/02/leveraging-machine-learning-to-combat.html"
+              link="#"
               img={article3}
             />
             <Article
               title="Enhancing User Experience with Human-Centered Design in Computer Science"
               date="January 9, 2023"
-              link="https://KennethCamachoblog.blogspot.com/2023/01/enhancing-user-experience-with-human.html"
+              link="#"
               img={article4}
             />
             <Article
               title="Bridging the Digital Divide: How Computer Science Can Foster Inclusive Technology Access"
               date="December 5, 2022"
-              link="https://KennethCamachoblog.blogspot.com/2022/12/bridging-digital-divide-how-computer.html"
+              link="#"
               img={article5}
             />
             <Article
               title=" Paving the Path for Ethical AI: Addressing Bias and Ensuring Fairness in Computer Science"
               date="September 8, 2022"
-              link="https://kennethcamachoblog.blogspot.com/2022/09/paving-path-for-ethical-ai-addressing.html"
+              link="#"
               img={article6}
             />
           </ul>
